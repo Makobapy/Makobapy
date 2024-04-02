@@ -8,7 +8,4 @@
 - I have also indulged via some projects such as the ones in Robotics as i was able to make a cranebot robot to assist in lifting some cargo as a prototype.
 - And the link is in description in https://cranepicker.blogspot.com/p/videos.html
 - Also am completely versed with skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
--Currenty working on android app development using the flutter technology at advanced  level as a pioneer skill.
-Makobapy/Makobapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Currenty working on android app development using the flutter technology at advanced  level as a pioneer skill.as a resolution of embarking mostly user defined demands on websites with the applications making it easily accesed guaranteed with remarks of users basing on the system desires and demands.
