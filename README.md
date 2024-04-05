@@ -6,4 +6,4 @@
 - With the skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
 - Currenty working on android app development using the flutter technology at advanced  level as a pioneer skill.as a resolution of embarking mostly user defined demands on websites with the applications making it easily accesed guaranteed with remarks of users basing on the system desires and demands.
 - I’m looking forward to collaborate on the world of IOT and robotics trained in the aspect of Data and Deep Learning.
-- 📫 How to reach me via my ashurangwashi@icloud.com in icloud , google through makobaashura5@gmail.com
+- 📫 How to reach me via my ashura makoba in linkedIn ,ashurangwashi@icloud.com in icloud , google through makobaashura5@gmail.com
