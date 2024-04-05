@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Makobapy
-- 👀 I’m interested in machine and Deep Learning as towards the graeter future of IOT where we can intervene human activities with machines .
-- Also an individual mostly interested in Robotics
-- 🌱 I’m currently learning Python and deeply in the field of IOT and Robotics 
-- 💞️ I’m looking to collaborate on the world of IOT and robotics trained in the aspect of Data Learning on Deep Learning.
-- - As currently at this period , am completely versed with skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
-- 📫 How to reach me via my makobambiel.py@yahoo.com in yahoo , google through makobaashura5@gmail.com 
-- I have also indulged via some projects such as the ones in Robotics as i was able to make a cranebot robot to assist in lifting some cargo as a prototype.
-- And the link is in description in https://cranepicker.blogspot.com/p/videos.html
-- Also am completely versed with skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
+- 👋 Hi, Ashura Ngwashi Makoba a student in Computer Engineering who is interested in machine and Deep Learning as towards the greater future of IOT where we can intervene human activities with machines so as to simplify tasks and provide the appropriate solutions toward the arising challenges to create a sustainable revolutionalise digital world .
+- I am individual mostly interested in Robotics that has initiated a desire and euthiasim to dive into python and SQL.
+- Of currently , am completely versed with skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
+- Through the academic process, got expertise in  C++ technology, Engineeering mathematics,computer architecture and design ,digital system design ,opratin systems which were embarked with several outsatanding projects upon completion on each course.
+- I have also indulged via some projects such as the ones in Robotics as i was able to make a cranebot robot to assist in lifting some cargo as a prototype during the UN African Girls Can Code Initiative 2nd phase of 2023 whose link I have placed in this description "https://cranepicker.blogspot.com/p/videos.html".
+- With the skills as a Database administrator and back end web development using Django as the absolute programming technology in fulfilling the suitable solutions on the existing problems (Makobapy/academia) is a repository for the Django project worked on as KDU_GLOBAL portal.
 - Currenty working on android app development using the flutter technology at advanced  level as a pioneer skill.as a resolution of embarking mostly user defined demands on websites with the applications making it easily accesed guaranteed with remarks of users basing on the system desires and demands.
+- I’m looking forward to collaborate on the world of IOT and robotics trained in the aspect of Data and Deep Learning.
+- 📫 How to reach me via my ashurangwashi@icloud.com in icloud , google through makobaashura5@gmail.com
